@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://diortx.github.io/sitemap/sitemap.txt
